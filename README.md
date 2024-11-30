@@ -20,10 +20,6 @@ Check out the project in action:
 
 https://github.com/user-attachments/assets/9dc6659d-52f1-4788-b904-1a88cc1c8671  
 
-Or download the video directly:  
-
-[Download Demo Video](https://github-production-user-asset-6210df.s3.amazonaws.com/40925702/391293360-9dc6659d-52f1-4788-b904-1a88cc1c8671.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241130T220702Z&X-Amz-Expires=300&X-Amz-Signature=e00424318c93f3ea9ae9817f3d617e6c1b59a2834d1d2bf994173b34cde8d7b2&X-Amz-SignedHeaders=host)
-
 ---
 
 ## 🚀 How to Run
